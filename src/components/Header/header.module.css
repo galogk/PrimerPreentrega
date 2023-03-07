@@ -1,6 +1,5 @@
 .container {
-    display: flex;
     justify-content: space-between;
-    background-color: aquamarine;
-
+    font-size: 50px;
+    color:#D0CCD0;
 }
